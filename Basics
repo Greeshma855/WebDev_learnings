@@ -3,3 +3,11 @@ Node.js could
 ->read & write files on a computer
 ->Connect to a database
 ->Act as a server for content
+
+Why use Node
+-> No need to learn extra language for server
+-> Can share code between front aand back end
+-> Huge amount of third party package & tools
+-> Massive Community behind to help
+
+Deprecated - features thatmay not be available in the future and this is marked with a line crossing the word.
