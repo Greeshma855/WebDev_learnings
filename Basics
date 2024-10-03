@@ -1,0 +1,5 @@
+Node.js runs on V8 engine which is developed by google and written in C++.Allows javaScript to run on your computer without which you could only run javaScript on browser.This is directly converted to machine code.
+Node.js could 
+->read & write files on a computer
+->Connect to a database
+->Act as a server for content
