@@ -1,1 +1,11 @@
-
+To create a Express project,
+Firstly npm init to initialize the project
+-> npm init : Dependency Management , Version Control, Configuration
+with npm init package.json and package-lock.json are created
+-> package.json : describes projects and it's dependencies, contains all the metadata
+-> package-lock.json : created by npm, has dependencies and their sub-dependencies.
+If you look into package.json you will find dependencies and dev dependencies
+-> dependencies : Required for application to run in production
+-> dev dependencies : has libraries and packages required only during development
+** If interested learn about testing, linting and bundling
+Also there are scripts which is used for task automation Eg: start,test,build,lint....
